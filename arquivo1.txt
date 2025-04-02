@@ -1,4 +1,4 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Iasmyn do Nascimento Menezes
-Tópicos Essenciais para Programação
+
+Respondendo a lista de exercício do GitHub
