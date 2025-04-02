@@ -1,4 +1,4 @@
 Faculdade Uniesp
-Curso: Ciências da Computação/Sistema para Internet
-Seu Nome Completo
-Disciplina
+Curso: Ciências da Computação
+Iasmyn do Nascimento Menezes
+Tópicos Essenciais para Programação
